@@ -1,6 +1,5 @@
-var r = document.getElementById("yeet")
-r.addEventListener("click", button)
+document.getElementById('yeet').addEventListener('click', button)
 
-function button() {
-  alert ("Hello there")
+function button () {
+  alert ('Hello there')
 }
